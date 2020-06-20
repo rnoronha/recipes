@@ -1,6 +1,4 @@
 ## La Brea Multigrain
-### Ingredients: 
-
 #### Half-assed rye starter:
 * 8oz water
 * 4.5 oz rye flour
@@ -32,7 +30,7 @@
 * Like 0.5 - 1.5 oz wheat bran, if you want it
 * 4.5 oz multigrain cereal
 
-**ORDER MATTERS** - leaving the multigrain cereal alone with the water will cause the cereal to absorb all the water, making the dough stiffer and the bread dense & dry
+**ORDER MATTERS** - leaving the multigrain cereal alone with the water will cause the cereal to absorb all the water, making the dough stiffer and the bread dense & dry. Make sure you add & mix in the flours before adding the cereal. 
 
 1. Mix water, yeast, sponge, salt
 2. Mix in flax, millet, any other seeds
@@ -47,10 +45,10 @@
 11. Line proofing basket with flour & more multigrain cereal
 12. Round dough off, place in proofing basket
 13. Start preheating oven to 500&deg;F
-13. Meanwhile, proof about 1 hour or until doubled in size
-14. Place dough in dutch oven / combo cooker
-15. Reduce temp to 475, bake covered for 25 min
-16. Uncover, rotate, bake another 25 min rotating occasionally
-  * Optionally, reduce heat to 450 if bread is getting too dark
-17. Let rest at least an hour before cutting
+14. Meanwhile, proof about 1 hour or until doubled in size
+15. Place dough in dutch oven / combo cooker
+16. Reduce temp to 475, bake covered for 25 min
+17. Uncover, rotate, bake another 25 min rotating occasionally
+18. Optionally, reduce heat to 450 if bread is getting too dark
+19. Let rest at least an hour before cutting
 
