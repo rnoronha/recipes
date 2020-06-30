@@ -59,3 +59,10 @@
 18. Optionally, reduce heat to 450 if bread is getting too dark
 19. Let rest at least an hour before cutting
 
+
+### Notes
+
+- used a heckin' lot more water, and it could probably use even more
+- probably want to add 1:1 water:wheat bran if you add it
+- did not actually come out significantly fluffier, but texture does seem nicer (possibly due to the soak?)
+- not sure if soaking the whole wheat or the bran helped more
