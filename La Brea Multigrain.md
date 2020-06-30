@@ -18,31 +18,38 @@
 2. Cover tightly
 2. Leave at room temp 2 hours, then refrigerate for 8-12 hours
 
-#### Bread: 
+#### Wheat pre-soak
+* 2 tsp salt
 * 5 oz water
+* 4 1/2 oz whole wheat flour
+* 1 oz wheat bran
+
+1. Mix all together
+2. Cover tightly
+3. Refrigerate alongside sponge
+
+#### Bread: 
 * 1 tsp fresh yeast
 * Sponge
-* 1 tsp salt
+* Wheat pre-soak
+* 6 3/4 oz high protein flour
 * 1 3/4 oz flax seeds
 * 7/8 oz millet
-* 6 3/4 oz high protein flour
-* 4.5 oz whole wheat flour
-* Like 0.5 - 1.5 oz wheat bran, if you want it
 * 4.5 oz multigrain cereal
 
-**ORDER MATTERS** - leaving the multigrain cereal alone with the water will cause the cereal to absorb all the water, making the dough stiffer and the bread dense & dry. Make sure you add & mix in the flours before adding the cereal. 
+**ORDER MATTERS** - the multigrain cereal will absorb as much water as it can, making the dough stiffer and the bread dense & dry. Make sure you add & mix in the flours before adding the cereal. 
 
-1. Mix water, yeast, sponge, salt
-2. Mix in flax, millet, any other seeds
-3. Mix in HP and whole wheat flours
-4. Mix in cereal and bran if you're using it
+1. Mix yeast, sponge
+2. Mix wheat pre-soak and HP flour
+3. Mix in flax, millet, any other seeds
+4. Mix in cereal
 5. Put in a lightly oiled bowl, cover tightly
 6. Let rest 1.5 hours
 7. Turn out onto lightly floured surface
 8. Slap against the surface to deflate
 9. Turn dough under itself to make a smooth surface, 
 10. Cover with cloth and let rest 15 min
-11. Line proofing basket with flour & more multigrain cereal
+11. Line proofing basket with flour 
 12. Round dough off, place in proofing basket
 13. Start preheating oven to 500&deg;F
 14. Meanwhile, proof about 1 hour or until doubled in size
