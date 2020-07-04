@@ -1,17 +1,17 @@
 ## La Brea Multigrain
 #### Half-assed rye starter:
-* 8oz water
-* 4.5 oz rye flour
-* 1 oz active starter
+* 225g water
+* 125g rye flour
+* 30g active starter
 
 1. Mix all together 
 2. Leave at room temp 6-12 hours (depends on local temperature)
 
 #### Sponge: 
-* 5.5 oz water
+* 155g water
 * 12g barley malt syrup
-* 6.5 oz rye starter
-* 5 3/4 oz high protein flour
+* 185g rye starter
+* 160g high protein flour
 * 1/2 tsp salt
 
 1. Mix all together
@@ -20,9 +20,9 @@
 
 #### Wheat pre-soak
 * 2 tsp salt
-* 5 oz water
-* 4 1/2 oz whole wheat flour
-* 1 oz wheat bran
+* 140g water
+* 130g whole wheat flour
+* 30g wheat bran
 
 1. Mix all together
 2. Cover tightly
@@ -32,10 +32,10 @@
 * 1 tsp fresh yeast
 * Sponge
 * Wheat pre-soak
-* 6 3/4 oz high protein flour
-* 1 3/4 oz flax seeds
-* 7/8 oz millet
-* 4.5 oz multigrain cereal
+* 200g high protein flour
+* 50g  flax seeds
+* 25g millet
+* 130g multigrain cereal
 
 **ORDER MATTERS** - the multigrain cereal will absorb as much water as it can, making the dough stiffer and the bread dense & dry. Make sure you add & mix in the flours before adding the cereal. 
 
