@@ -1,16 +1,16 @@
 ## La Brea Multigrain
 #### Half-assed rye starter:
-* 225g water
-* 125g rye flour
+* 230g water
+* 120g rye flour
 * 30g active starter
 
 1. Mix all together 
 2. Leave at room temp 6-12 hours (depends on local temperature)
 
 #### Sponge: 
-* 155g water
+* 160g water
 * 12g barley malt syrup
-* 185g rye starter
+* 190g rye starter
 * 160g high protein flour
 * 1/2 tsp salt
 
