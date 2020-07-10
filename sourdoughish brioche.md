@@ -42,3 +42,8 @@ You can:
 * Make loafs
 * Make buns
 * Turn it into babka, with a filling
+
+### Notes: 
+* The tangzhong seems to help, it's lasted like five days and is still good as toast
+* Definitely need to leave it in a greased bowl or ziploc overnight, this dough is very unruly even with the tangzhong - maybe increase the ratio? 
+* This makes a buttload of brioche, consider halving it. Definitely need to double the apricot filling recipe if you're using it with this recipe straight. 
