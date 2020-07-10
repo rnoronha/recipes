@@ -20,7 +20,7 @@
 
 #### Wheat pre-soak
 * 2 tsp salt
-* 140g water
+* 160g water
 * 130g whole wheat flour
 * 30g wheat bran
 
