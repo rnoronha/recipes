@@ -3,13 +3,20 @@
 * 240g AP flour
 * 2g salt
 * 180g boiling water, plus up to 60g extra (240g total)
+* 6g oil
 
 ### Dough recipe: 
 
 1. Put flour and salt in bowl 
 2. Slowly add 180 grams boiling water to flour, then the extra if it doesn't come together
 4. Once it's a ball knead until smooth
-5. Put in a bowl or wrap with saran wrap and rest for at least 30 min and up to overnight
+5. Put in a bowl or wrap with saran wrap and rest for at least 20 min
+6. Fold in oil
+7. Let rest 2 hours
+6. Separate dough out into four balls
+7. Roll into a cylinder and flatten
+8. Cover in oil
+9. Let rest for 2 hours
 
 ### Scallion oil:
 * 30 grams neutral oil, hot (nearly smoking)
@@ -29,10 +36,9 @@
 
 ### Pancake Recipe
 
-1. Separate dough into 4. If any dough ball gets too tough to roll out, let it rest
-3. For each dough ball:
-  3. Roll out into a disk, roughly 8 in
+3. For each flat cylinder:
   4. Paint a thin layer of sesame oil on the disk
   7. Spread scallion oil on disk
-  5. Roll the disk up like a cinnamon roll, then into a spiral. 
+  5. Roll the disk up from the narrow end, then wrap the corners under
+  6. Flatten out into a disk
   10. Fry on medium high heat until nicely browned
