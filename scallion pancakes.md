@@ -33,9 +33,6 @@
 3. For each dough ball:
   3. Roll out into a disk, roughly 8 in
   4. Paint a thin layer of sesame oil on the disk
-  5. Roll the disk up like a cinnamon roll, then into a spiral. 
-  6. Flatten gently, then roll out into an 8 inch disk again
   7. Spread scallion oil on disk
-  8. Roll disk up again, then into spiral
-  9. Flatten gently, then roll out into 8 inch disk again
+  5. Roll the disk up like a cinnamon roll, then into a spiral. 
   10. Fry on medium high heat until nicely browned
