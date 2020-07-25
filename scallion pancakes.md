@@ -12,7 +12,6 @@
 4. Once it's a ball knead until smooth
 5. Put in a bowl or wrap with saran wrap and rest for at least 20 min
 6. Fold in oil
-7. Let rest 2 hours
 6. Separate dough out into four balls
 7. Roll into a cylinder and flatten
 8. Cover in oil
@@ -42,3 +41,8 @@
   5. Roll the disk up from the narrow end, then wrap the corners under
   6. Flatten out into a disk
   10. Fry on medium high heat until nicely browned
+
+
+# Notes
+* Way too oily
+* Probably just follow the dang Magic Ingredients recipe

@@ -27,3 +27,6 @@
 11. Bake with aluminum foil lid on for 25-30 min
 12. Bake lid off for 25-45 min until internal temp is ~200&deg;F
 13. Cool 1 hour
+
+# Notes
+* Nice and light and fluffy, but started fermenting / going bad within five days
