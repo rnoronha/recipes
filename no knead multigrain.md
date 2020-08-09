@@ -1,20 +1,14 @@
 ## No Knead Multigrain
 ### Ingredients: 
-#### Tangzhong: 
-* 150g boiling water
-* 75g all-purpose flour
-
-1. Whisk all purpose flour into boiling water (doing water into flour makes it lumpy)
 
 #### Bread:
-* Tangzhong (cooled enough that it doesn't hurt the yeast)
-* 250g lukewarm water
+* 350g lukewarm water
 * 40g honey, brown rice syrup or molasses
 * 10g fine sea salt
 * 30g olive oil
 * 5g yeast
 * 200g starter
-* 75g all-purpose flour
+* 150g all-purpose flour
 * 120g whole-wheat flour
 * 100g rye flour
 * 15g wheat bran
