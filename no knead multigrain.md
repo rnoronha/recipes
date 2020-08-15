@@ -14,8 +14,7 @@
 * 15g wheat bran
 * 50g flax seeds
 * 25g millet
-* 100g multigrain cereal, such as Bob’s Red Mill 8-grain cereal
-* 20g chia seeds (ran out of multigrain, added chia seeds to make up for it)
+* 120g multigrain cereal, such as Bob’s Red Mill 8-grain cereal
 
 ### Recipe
 
@@ -30,6 +29,5 @@
 13. Cool 1 hour
 
 # Notes
-* Nice and light and fluffy, but started fermenting / going bad within five days
-* Did that again! Will try w/ less water and without the tangzhong
-* Chia seeds are kinda annoying and get stuck in your teeth, do not recommend for bread
+* Didn't go bad this time but did seem to ferment a bit
+* Still nice and fluffy
