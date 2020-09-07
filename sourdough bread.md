@@ -2,16 +2,18 @@
 ### Ingredients: 
 
 #### Bread:
-* 250g water - we ended up adding another 50g
-* 150g starter
+* 300g water
+* 200g starter
 * 10g salt
 * 25g olive oil
-* 500g high-protein flour (not AP, not bread flour that has the same protein content as AP)
+* 15g wheat bran
+* 250g whole wheat flour
+* 250g high-protein flour
 
 ### Recipe
 
 1. Mix water, starter, salt, olive oil
-2. Mix in flour
+2. Mix in flour and bran
 3. Stir until incorporated and shaggy
 4. Rest (autolyze) 30 min
 5. Stretch and fold (pull dough up and over, rotate 90 degrees, repeat 4 times total)
