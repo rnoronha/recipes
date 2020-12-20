@@ -3,13 +3,14 @@
 
 #### Bread:
 * 350g lukewarm water
-* 40g honey, brown rice syrup or molasses
+* 30g honey, or 40g brown rice syrup
 * 10g fine sea salt
 * 30g olive oil
 * 5g yeast
 * 200g starter
-* 150g all-purpose flour
-* 120g whole-wheat flour
+
+* 150g bread flour
+* 225g whole-wheat flour
 * 100g rye flour
 * 15g wheat bran
 * 50g flax seeds
