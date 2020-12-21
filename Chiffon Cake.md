@@ -29,5 +29,15 @@ From https://www.justonecookbook.com/perfect-chiffon-cake/
 * Bang cake against counter again once it comes out
 * Let cool upside-down for at least an hour
 * Run a thin knife or something around the inner and outer edges of the cake, then around the bottom once it comes out
-* Remove from pan, dust with powdered sugar or whatever
+* Remove from pan, add topping
+  * Powdered sugar is generally not enough for the American palate, put a powdered sugar + liquid + flavoring sauce on it. Fresh fruit works great as well.
 
+### Notes:
+
+#### Attempt 1
+
+Flavoring: 15 g cocoa powder, 15 g baker's dry milk, 65g milk - lightly chocolate cake
+
+Worked very well in the NordicWare 9ish in angel food cake tin despite the recipe being scaled for an 8in tin
+
+Needed some sort of sauce, so I did 60g powdered sugar 40g baker's dry milk + real milk until the consistency was right.
