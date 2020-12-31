@@ -41,3 +41,10 @@ Flavoring: 15 g cocoa powder, 15 g baker's dry milk, 65g milk - lightly chocolat
 Worked very well in the NordicWare 9ish in angel food cake tin despite the recipe being scaled for an 8in tin
 
 Needed some sort of sauce, so I did 60g powdered sugar 40g baker's dry milk + real milk until the consistency was right.
+
+#### Attempt 2
+
+Flavoring: 70g orange juice, 25g lemon juice, 3/4 tsp ground cardamom, 15g orange zest, 5 g lemon zest
+Frosting: 210 g powdered sugar, 60 grams orange juice, 1 tbsp orange zest, 5g butter
+
+Was very good, seemed moister than the other cake on its own. Frosting was a bit too sweet for some.
