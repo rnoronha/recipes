@@ -30,14 +30,14 @@ Start this 1 - 2 days before - the dough needs to rest overnight, and you may wa
 
 ## Filling:
 
-* 25g brown sugar
+* 35g brown sugar
 * Ground cinnamon (1/4 - 1 tsp)
 * Pinch of salt
-* 8g butter, melted and cooled
+* 10g butter, melted and cooled
 
 ## Icing
-* 30g butter, room temp
-* 30g cream cheese, room temp
+* 40g butter, room temp
+* 40g cream cheese, room temp
 * 1/4 tsp vanilla extract
 * Pinch of salt
-* 30g powdered sugar
+* 40g powdered sugar
