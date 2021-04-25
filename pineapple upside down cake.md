@@ -42,3 +42,7 @@ From: https://sallysbakingaddiction.com/pineapple-upside-cake/
 * Bake for ~45 minutes or until internal temperature reaches 200&deg;. 
 * Cool for 20 minutes 
 * Invert and potentially serve (the cooler it gets the less messy it will be)
+
+## Notes
+
+* Cake was great, but the fruits slowly made it collapse. Probably best if cooked separately and then put fruits on it after it cools completely, but even then it's likely to collapse.
