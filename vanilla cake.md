@@ -35,3 +35,10 @@ Also I'm gonna put sprinkles and condensed milk in it
 * Bake for ~40 minutes or until internal temperature reaches 200&deg;. 
 * Invert for upside-down cooling
 * Cool for 20 minutes 
+
+## Notes
+
+* Very delicate and soft
+* A bit dry - maybe more butter & stir less
+* A bit overcooked in the outer corner
+* Chocolate sprinkles probably added too much sugar; go for mini-chips? The batter is thick enough to suspend them. 
